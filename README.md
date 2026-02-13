@@ -1,3 +1,5 @@
+Note: The instructions below are for this video: https://www.youtube.com/watch?v=aIB0p2q9Bd8
+
 ## Steps:
 
 ## 1️⃣ Create an S3 bucket (for videos)
