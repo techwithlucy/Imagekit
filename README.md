@@ -180,7 +180,7 @@ Here's the basic structure of a URL-based transformation:
 https://ik.imagekit.io/ikmedia/docs_images/examples/example_food_3.jpg?tr=w-400,h-200
 ```
 
-1. **Text Overlay:**
+**2. Text Overlay:**
     
     ```jsx
     https://ik.imagekit.io/demo/sample-video.mp4?tr=l-text,i-hello,fs-100,co-red,bg-FFFFFF,pa-20,l-end
@@ -197,7 +197,7 @@ To get the first frame from the video **`ik-thumbnail.jpg`** after the video r
 https://ik.imagekit.io/demo/sample-video.mp4/ik-thumbnail.jpg
 ```
 
-1. **Adaptive Bitrate Streaming**
+**4. Adaptive Bitrate Streaming**
     
     Adaptive Bitrate Streaming (ABS) enables the optimum streaming video viewing experience for different types of devices over a broad set of connection speeds. This results in very little buffering, a fast start time and a good experience for both high-end and low-end connections.
     
